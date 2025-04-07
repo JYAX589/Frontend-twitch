@@ -3,5 +3,5 @@ export const validateEmail = (email) =>{
     return regex.test(email);
 }
 
-export const emailValidateMessage = 'Por favor ingresa una direccion electronica valida';
+export const emailValidationMessage = 'Por favor ingresa una direccion electronica valida';
 
